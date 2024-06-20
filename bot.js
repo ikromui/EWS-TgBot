@@ -13,7 +13,7 @@ function keepServerAwake() {
   setInterval(() => {
     https.get(serverUrl);
     console.log(serverUrl);
-  }, 300);
+  }, 300000);
 }
 
 keepServerAwake()
