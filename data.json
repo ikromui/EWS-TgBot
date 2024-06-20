@@ -198,5 +198,445 @@
       "Abandon"
     ],
     "answer": "Abandon"
+  },
+  {
+    "question": "Which of the following is an antonym of 'vast'?",
+    "options": [
+      "Tiny",
+      "Large",
+      "Huge",
+      "Great"
+    ],
+    "answer": "Tiny"
+  },
+  {
+    "question": "What is the synonym of 'eloquent'?",
+    "options": [
+      "Silent",
+      "Articulate",
+      "Mute",
+      "Quiet"
+    ],
+    "answer": "Articulate"
+  },
+  {
+    "question": "Which word means 'to officially forbid'?",
+    "options": [
+      "Permit",
+      "Allow",
+      "Ban",
+      "Accept"
+    ],
+    "answer": "Ban"
+  },
+  {
+    "question": "What does 'ephemeral' mean?",
+    "options": [
+      "Lasting a long time",
+      "Short-lived",
+      "Permanent",
+      "Durable"
+    ],
+    "answer": "Short-lived"
+  },
+  {
+    "question": "Which of the following is an antonym of 'arduous'?",
+    "options": [
+      "Easy",
+      "Difficult",
+      "Simple",
+      "Complex"
+    ],
+    "answer": "Easy"
+  },
+  {
+    "question": "What is the synonym of 'ubiquitous'?",
+    "options": [
+      "Rare",
+      "Common",
+      "Unique",
+      "Scarce"
+    ],
+    "answer": "Common"
+  },
+  {
+    "question": "Which word means 'the study of ancient artifacts'?",
+    "options": [
+      "Biology",
+      "Geology",
+      "Archaeology",
+      "Chemistry"
+    ],
+    "answer": "Archaeology"
+  },
+  {
+    "question": "What does 'surreptitious' mean?",
+    "options": [
+      "Open",
+      "Honest",
+      "Secret",
+      "Transparent"
+    ],
+    "answer": "Secret"
+  },
+  {
+    "question": "Which of these is a synonym for 'zealous'?",
+    "options": [
+      "Indifferent",
+      "Passionate",
+      "Apathetic",
+      "Neutral"
+    ],
+    "answer": "Passionate"
+  },
+  {
+    "question": "What is the opposite of 'abundant'?",
+    "options": [
+      "Plentiful",
+      "Sufficient",
+      "Ample",
+      "Scarce"
+    ],
+    "answer": "Scarce"
+  },
+  {
+    "question": "Which word means 'a sudden overthrow of a government'?",
+    "options": [
+      "Revolution",
+      "Evolution",
+      "Progress",
+      "Stagnation"
+    ],
+    "answer": "Revolution"
+  },
+  {
+    "question": "What is a synonym for 'gregarious'?",
+    "options": [
+      "Shy",
+      "Sociable",
+      "Introverted",
+      "Reserved"
+    ],
+    "answer": "Sociable"
+  },
+  {
+    "question": "Which of these means 'to forgive or excuse'?",
+    "options": [
+      "Pardon",
+      "Condemn",
+      "Accuse",
+      "Blame"
+    ],
+    "answer": "Pardon"
+  },
+  {
+    "question": "What does 'mellifluous' mean?",
+    "options": [
+      "Harsh sounding",
+      "Smooth and sweet sounding",
+      "Loud",
+      "Pleasant"
+    ],
+    "answer": "Smooth and sweet sounding"
+  },
+  {
+    "question": "Which word is an antonym of 'frugal'?",
+    "options": [
+      "Thrifty",
+      "Wasteful",
+      "Economical",
+      "Prudent"
+    ],
+    "answer": "Wasteful"
+  },
+  {
+    "question": "What is the synonym of 'veracity'?",
+    "options": [
+      "Honesty",
+      "Deception",
+      "Dishonesty",
+      "Truthfulness"
+    ],
+    "answer": "Truthfulness"
+  },
+  {
+    "question": "Which word means 'to make amends for wrongdoing'?",
+    "options": [
+      "Punish",
+      "Retribute",
+      "Apologize",
+      "Redeem"
+    ],
+    "answer": "Redeem"
+  },
+  {
+    "question": "What does 'nadir' mean?",
+    "options": [
+      "Highest point",
+      "Lowest point",
+      "Middle point",
+      "End point"
+    ],
+    "answer": "Lowest point"
+  },
+  {
+    "question": "Which of these is a synonym for 'inevitable'?",
+    "options": [
+      "Avoidable",
+      "Unavoidable",
+      "Optional",
+      "Possible"
+    ],
+    "answer": "Unavoidable"
+  },
+  {
+    "question": "What is the opposite of 'courageous'?",
+    "options": [
+      "Brave",
+      "Fearless",
+      "Bold",
+      "Cowardly"
+    ],
+    "answer": "Cowardly"
+  },
+  {
+    "question": "Which word means 'the ability to understand and share the feelings of another'?",
+    "options": [
+      "Empathy",
+      "Sympathy",
+      "Pity",
+      "Apathy"
+    ],
+    "answer": "Empathy"
+  },
+  {
+    "question": "What is a synonym for 'exacerbate'?",
+    "options": [
+      "Alleviate",
+      "Worsen",
+      "Improve",
+      "Ameliorate"
+    ],
+    "answer": "Worsen"
+  },
+  {
+    "question": "Which of these means 'to argue against or contradict'?",
+    "options": [
+      "Agree",
+      "Disagree",
+      "Concur",
+      "Consent"
+    ],
+    "answer": "Disagree"
+  },
+  {
+    "question": "What does 'quintessential' mean?",
+    "options": [
+      "Typical",
+      "Unusual",
+      "Abnormal",
+      "Extraordinary"
+    ],
+    "answer": "Typical"
+  },
+  {
+    "question": "John found his schoolwork to be very _____. He struggled with the difficult math problems and long reading assignments.",
+    "options": [
+      "Easy",
+      "Difficult",
+      "Simple",
+      "Complex"
+    ],
+    "answer": "Difficult"
+  },
+  {
+    "question": "Everywhere you go, you see people using smartphones. These devices are _____ in our society.",
+    "options": [
+      "Rare",
+      "Common",
+      "Unique",
+      "Scarce"
+    ],
+    "answer": "Common"
+  },
+  {
+    "question": "Lucy loves learning about old things. She reads books and visits places where people dig up old items. This is called _____.",
+    "options": [
+      "Biology",
+      "Geology",
+      "Archaeology",
+      "Chemistry"
+    ],
+    "answer": "Archaeology"
+  },
+  {
+    "question": "James sneaked quietly into the kitchen to get a cookie. He hoped his mom wouldn't notice his ____ actions.",
+    "options": [
+      "Open",
+      "Honest",
+      "Secret",
+      "Transparent"
+    ],
+    "answer": "Secret"
+  },
+  {
+    "question": "Sarah is very ____ about painting. She loves it so much that she spends hours creating beautiful artworks.",
+    "options": [
+      "Indifferent",
+      "Passionate",
+      "Apathetic",
+      "Neutral"
+    ],
+    "answer": "Passionate"
+  },
+  {
+    "question": "The drought made water ____ in the village. People had to walk far to get clean water for their families.",
+    "options": [
+      "Plentiful",
+      "Sufficient",
+      "Ample",
+      "Scarce"
+    ],
+    "answer": "Scarce"
+  },
+  {
+    "question": "In some countries, people suddenly take over the government to change things. This is called a _____.",
+    "options": [
+      "Revolution",
+      "Evolution",
+      "Progress",
+      "Stagnation"
+    ],
+    "answer": "Revolution"
+  },
+  {
+    "question": "Tom enjoys being with others. He's very ____ and likes talking to new friends.",
+    "options": [
+      "Shy",
+      "Sociable",
+      "Introverted",
+      "Reserved"
+    ],
+    "answer": "Sociable"
+  },
+  {
+    "question": "When you do something wrong, saying 'I'm sorry' is a way to _____.",
+    "options": [
+      "Pardon",
+      "Condemn",
+      "Accuse",
+      "Blame"
+    ],
+    "answer": "Pardon"
+  },
+  {
+    "question": "The singer's voice was so ____ that everyone in the audience smiled as they listened.",
+    "options": [
+      "Harsh sounding",
+      "Smooth and sweet sounding",
+      "Loud",
+      "Pleasant"
+    ],
+    "answer": "Smooth and sweet sounding"
+  },
+  {
+    "question": "Some people spend money without thinking, while others are ____ and save their money for the future.",
+    "options": [
+      "Thrifty",
+      "Wasteful",
+      "Economical",
+      "Prudent"
+    ],
+    "answer": "Wasteful"
+  },
+  {
+    "question": "Telling the ____ is important. It means you always say what is true and honest.",
+    "options": [
+      "Honesty",
+      "Deception",
+      "Dishonesty",
+      "Truthfulness"
+    ],
+    "answer": "Truthfulness"
+  },
+  {
+    "question": "When you try to make up for something wrong you did, it's like trying to ____ for your mistake.",
+    "options": [
+      "Punish",
+      "Retribute",
+      "Apologize",
+      "Redeem"
+    ],
+    "answer": "Redeem"
+  },
+  {
+    "question": "The sun is highest in the sky at noon. The opposite of this is called the ____.",
+    "options": [
+      "Highest point",
+      "Lowest point",
+      "Middle point",
+      "End point"
+    ],
+    "answer": "Lowest point"
+  },
+  {
+    "question": "Some things are sure to happen, no matter what. These are called ____ events.",
+    "options": [
+      "Avoidable",
+      "Unavoidable",
+      "Optional",
+      "Possible"
+    ],
+    "answer": "Unavoidable"
+  },
+  {
+    "question": "A brave person faces their fears, while a ____ person feels afraid and runs away.",
+    "options": [
+      "Brave",
+      "Fearless",
+      "Bold",
+      "Cowardly"
+    ],
+    "answer": "Cowardly"
+  },
+  {
+    "question": "When you understand how someone else feels, you have a lot of ____ for them.",
+    "options": [
+      "Empathy",
+      "Sympathy",
+      "Pity",
+      "Apathy"
+    ],
+    "answer": "Empathy"
+  },
+  {
+    "question": "To make something worse or more intense is to ____ the situation.",
+    "options": [
+      "Alleviate",
+      "Worsen",
+      "Improve",
+      "Ameliorate"
+    ],
+    "answer": "Worsen"
+  },
+  {
+    "question": "When you don't agree with someone, you ____ with them.",
+    "options": [
+      "Agree",
+      "Disagree",
+      "Concur",
+      "Consent"
+    ],
+    "answer": "Disagree"
+  },
+  {
+    "question": "The most typical or perfect example of something is called the ____.",
+    "options": [
+      "Typical",
+      "Unusual",
+      "Abnormal",
+      "Extraordinary"
+    ],
+    "answer": "Typical"
   }
 ]
