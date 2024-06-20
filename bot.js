@@ -5,6 +5,19 @@ const TelegramBot = require('node-telegram-bot-api');
 const fs = require('fs');
 require('dotenv').config();
 
+const https = require('https');
+
+const serverUrl = 'https://ews-tgbot.onrender.com';
+
+function keepServerAwake() {
+  setInterval(() => {
+    https.get(serverUrl);
+    console.log(serverUrl);
+  }, 300);
+}
+
+keepServerAwake()
+
 // ==================
 // = CODE SETTINGS ==
 // ==================

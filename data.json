@@ -1,642 +1,752 @@
 [
   {
-    "question": "Which word means 'a person who studies stars and planets'?",
+    "question": "What is the synonym of 'happy'?",
     "options": [
-      "Astronomer",
-      "Botanist",
-      "Geologist",
-      "Archaeologist"
+      "sad",
+      "joyful",
+      "angry",
+      "tired"
     ],
-    "answer": "Astronomer"
+    "answer": "joyful"
   },
   {
-    "question": "Which word means 'a device used to capture distant objects in photography'?",
+    "question": "Which word means the opposite of 'big'?",
     "options": [
-      "Camera",
-      "Telescope",
-      "Microscope",
-      "Binoculars"
+      "large",
+      "tiny",
+      "huge",
+      "great"
     ],
-    "answer": "Telescope"
+    "answer": "tiny"
   },
   {
-    "question": "Which word means 'a place where animals are kept for public viewing'?",
+    "question": "What does 'secure' mean?",
     "options": [
-      "Zoo",
-      "Park",
-      "Museum",
-      "Aquarium"
+      "unsafe",
+      "dangerous",
+      "protected",
+      "risky"
     ],
-    "answer": "Zoo"
+    "answer": "protected"
   },
   {
-    "question": "Which word means 'the study of living organisms'?",
+    "question": "Choose the correct synonym for 'strong'.",
     "options": [
-      "Botany",
-      "Zoology",
-      "Geology",
-      "Anthropology"
+      "fragile",
+      "tough",
+      "weak",
+      "powerful"
     ],
-    "answer": "Zoology"
+    "answer": "powerful"
   },
   {
-    "question": "Which word means 'to predict or estimate something'?",
+    "question": "What is the opposite of 'begin'?",
     "options": [
-      "Guess",
-      "Calculate",
-      "Forecast",
-      "Measure"
+      "start",
+      "initiate",
+      "end",
+      "commence"
     ],
-    "answer": "Forecast"
+    "answer": "end"
   },
   {
-    "question": "Which word means 'to examine carefully and thoroughly'?",
+    "question": "Which word means the same as 'cold'?",
     "options": [
-      "Analyze",
-      "Ignore",
-      "Construct",
-      "Reject"
+      "freezing",
+      "warm",
+      "hot",
+      "chilly"
     ],
-    "answer": "Analyze"
+    "answer": "freezing"
   },
   {
-    "question": "Which word means 'the state of being clear and understandable'?",
+    "question": "What is another word for 'quick'?",
     "options": [
-      "Confusion",
-      "Clarity",
-      "Ambiguity",
-      "Mystery"
+      "fast",
+      "slow",
+      "speedy",
+      "swift"
     ],
-    "answer": "Clarity"
+    "answer": "swift"
   },
   {
-    "question": "Which word means 'to make something known or understood'?",
+    "question": "What does 'vivid' mean?",
     "options": [
-      "Hide",
-      "Reveal",
-      "Cover",
-      "Protect"
+      "dull",
+      "colorful",
+      "dark",
+      "gloomy"
     ],
-    "answer": "Reveal"
+    "answer": "colorful"
   },
   {
-    "question": "Which word means 'to form an opinion without firm evidence'?",
+    "question": "Which word is a synonym for 'happy'?",
     "options": [
-      "Assume",
-      "Confirm",
-      "Investigate",
-      "Prove"
+      "sad",
+      "joyful",
+      "angry",
+      "tired"
     ],
-    "answer": "Assume"
+    "answer": "joyful"
   },
   {
-    "question": "Which word means 'to understand or grasp something'?",
+    "question": "What is the opposite of 'easy'?",
     "options": [
-      "Comprehend",
-      "Ignore",
-      "Forget",
-      "Misinterpret"
+      "simple",
+      "difficult",
+      "hard",
+      "soft"
     ],
-    "answer": "Comprehend"
+    "answer": "difficult"
   },
   {
-    "question": "Which word means 'a story or tale that is not true'?",
+    "question": "Choose the correct synonym for 'small'.",
     "options": [
-      "Fact",
-      "Legend",
-      "Myth",
-      "History"
+      "tiny",
+      "gigantic",
+      "enormous",
+      "massive"
     ],
-    "answer": "Myth"
+    "answer": "tiny"
   },
   {
-    "question": "Which word means 'to suggest or hint at something indirectly'?",
+    "question": "What does 'furious' mean?",
     "options": [
-      "State",
-      "Imply",
-      "Direct",
-      "Order"
+      "angry",
+      "calm",
+      "mad",
+      "peaceful"
     ],
-    "answer": "Imply"
+    "answer": "angry"
   },
   {
-    "question": "Which word means 'to divide something into smaller parts'?",
+    "question": "Which word means the opposite of 'beautiful'?",
     "options": [
-      "Combine",
-      "Merge",
-      "Separate",
-      "Unite"
+      "lovely",
+      "gorgeous",
+      "pretty",
+      "ugly"
     ],
-    "answer": "Separate"
+    "answer": "ugly"
   },
   {
-    "question": "Which word means 'to praise or admire someone'?",
+    "question": "What is another word for 'silent'?",
     "options": [
-      "Criticize",
-      "Compliment",
-      "Insult",
-      "Ignore"
+      "noisy",
+      "quiet",
+      "loud",
+      "peaceful"
     ],
-    "answer": "Compliment"
+    "answer": "quiet"
   },
   {
-    "question": "Which word means 'to change or alter something'?",
+    "question": "What is the synonym of 'brave'?",
     "options": [
-      "Maintain",
-      "Revise",
-      "Preserve",
-      "Fix"
+      "fearful",
+      "cowardly",
+      "courageous",
+      "timid"
     ],
-    "answer": "Revise"
+    "answer": "courageous"
   },
   {
-    "question": "Which word means 'to draw a conclusion based on reasoning'?",
+    "question": "Which word means the opposite of 'full'?",
     "options": [
-      "Speculate",
-      "Guess",
-      "Conclude",
-      "Postulate"
+      "complete",
+      "plentiful",
+      "empty",
+      "satisfied"
     ],
-    "answer": "Conclude"
+    "answer": "empty"
   },
   {
-    "question": "Which word means 'the study of past events'?",
+    "question": "What does 'constant' mean?",
     "options": [
-      "Biology",
-      "Geography",
-      "History",
-      "Chemistry"
+      "variable",
+      "unstable",
+      "steady",
+      "changeable"
     ],
-    "answer": "History"
+    "answer": "steady"
   },
   {
-    "question": "Which word means 'a formal discussion on a specific topic'?",
+    "question": "Choose the correct synonym for 'quick'.",
     "options": [
-      "Conversation",
-      "Debate",
-      "Argument",
-      "Interview"
+      "slow",
+      "rapid",
+      "speedy",
+      "leisurely"
     ],
-    "answer": "Debate"
+    "answer": "speedy"
   },
   {
-    "question": "Which word means 'to express sadness or grief'?",
+    "question": "What is another word for 'sad'?",
     "options": [
-      "Celebrate",
-      "Mourn",
-      "Rejoice",
-      "Praise"
+      "unhappy",
+      "joyful",
+      "cheerful",
+      "miserable"
     ],
-    "answer": "Mourn"
+    "answer": "miserable"
   },
   {
-    "question": "Which word means 'to give up or surrender something'?",
+    "question": "What is the opposite of 'dark'?",
     "options": [
-      "Retain",
-      "Keep",
-      "Release",
-      "Abandon"
+      "gloomy",
+      "shadowy",
+      "bright",
+      "murky"
     ],
-    "answer": "Abandon"
+    "answer": "bright"
   },
   {
-    "question": "Which of the following is an antonym of 'vast'?",
+    "question": "What does 'ubiquitous' mean?",
     "options": [
-      "Tiny",
-      "Large",
-      "Huge",
-      "Great"
+      "rare",
+      "common",
+      "unique",
+      "universal"
     ],
-    "answer": "Tiny"
+    "answer": "universal"
   },
   {
-    "question": "What is the synonym of 'eloquent'?",
+    "question": "Which word is an antonym of 'precipitous'?",
     "options": [
-      "Silent",
-      "Articulate",
-      "Mute",
-      "Quiet"
+      "gradual",
+      "steep",
+      "swift",
+      "abrupt"
     ],
-    "answer": "Articulate"
+    "answer": "gradual"
   },
   {
-    "question": "Which word means 'to officially forbid'?",
+    "question": "What is the meaning of 'facetious'?",
     "options": [
-      "Permit",
-      "Allow",
-      "Ban",
-      "Accept"
+      "serious",
+      "funny",
+      "sincere",
+      "honest"
     ],
-    "answer": "Ban"
+    "answer": "funny"
   },
   {
-    "question": "What does 'ephemeral' mean?",
+    "question": "What does 'perpetuate' mean?",
     "options": [
-      "Lasting a long time",
-      "Short-lived",
-      "Permanent",
-      "Durable"
+      "create",
+      "destroy",
+      "continue",
+      "alter"
     ],
-    "answer": "Short-lived"
+    "answer": "continue"
   },
   {
-    "question": "Which of the following is an antonym of 'arduous'?",
+    "question": "Which word is synonymous with 'ephemeral'?",
     "options": [
-      "Easy",
-      "Difficult",
-      "Simple",
-      "Complex"
+      "temporary",
+      "permanent",
+      "lasting",
+      "enduring"
     ],
-    "answer": "Easy"
+    "answer": "temporary"
   },
   {
-    "question": "What is the synonym of 'ubiquitous'?",
+    "question": "What is the plural form of 'child'?",
     "options": [
-      "Rare",
-      "Common",
-      "Unique",
-      "Scarce"
+      "childs",
+      "children",
+      "childen",
+      "child's"
     ],
-    "answer": "Common"
+    "answer": "children"
   },
   {
-    "question": "Which word means 'the study of ancient artifacts'?",
+    "question": "Which word means 'to happen'?",
     "options": [
-      "Biology",
-      "Geology",
-      "Archaeology",
-      "Chemistry"
+      "occur",
+      "accure",
+      "acquire",
+      "ocure"
     ],
-    "answer": "Archaeology"
+    "answer": "occur"
   },
   {
-    "question": "What does 'surreptitious' mean?",
+    "question": "What does 'ambiguous' mean?",
     "options": [
-      "Open",
-      "Honest",
-      "Secret",
-      "Transparent"
+      "clear",
+      "uncertain",
+      "specific",
+      "determined"
     ],
-    "answer": "Secret"
+    "answer": "uncertain"
   },
   {
-    "question": "Which of these is a synonym for 'zealous'?",
+    "question": "Which word is a synonym for 'happy'?",
     "options": [
-      "Indifferent",
-      "Passionate",
-      "Apathetic",
-      "Neutral"
+      "sad",
+      "cheerful",
+      "angry",
+      "joyful"
     ],
-    "answer": "Passionate"
+    "answer": "joyful"
   },
   {
-    "question": "What is the opposite of 'abundant'?",
+    "question": "What is the opposite of 'brave'?",
     "options": [
-      "Plentiful",
-      "Sufficient",
-      "Ample",
-      "Scarce"
+      "fearless",
+      "courageous",
+      "timid",
+      "bold"
     ],
-    "answer": "Scarce"
+    "answer": "timid"
   },
   {
-    "question": "Which word means 'a sudden overthrow of a government'?",
+    "question": "Which word is a type of fruit?",
     "options": [
-      "Revolution",
-      "Evolution",
-      "Progress",
-      "Stagnation"
+      "vegetable",
+      "grain",
+      "berry",
+      "meat"
     ],
-    "answer": "Revolution"
+    "answer": "berry"
   },
   {
-    "question": "What is a synonym for 'gregarious'?",
+    "question": "What does 'exaggerate' mean?",
     "options": [
-      "Shy",
-      "Sociable",
-      "Introverted",
-      "Reserved"
+      "understate",
+      "minimize",
+      "embellish",
+      "clarify"
     ],
-    "answer": "Sociable"
+    "answer": "embellish"
   },
   {
-    "question": "Which of these means 'to forgive or excuse'?",
+    "question": "What is the correct plural of 'fox'?",
     "options": [
-      "Pardon",
-      "Condemn",
-      "Accuse",
-      "Blame"
+      "foxes",
+      "foxen",
+      "fox's",
+      "foxs"
     ],
-    "answer": "Pardon"
+    "answer": "foxes"
   },
   {
-    "question": "What does 'mellifluous' mean?",
+    "question": "Which word means 'to understand'?",
     "options": [
-      "Harsh sounding",
-      "Smooth and sweet sounding",
-      "Loud",
-      "Pleasant"
+      "misunderstand",
+      "comprehend",
+      "ignore",
+      "confuse"
     ],
-    "answer": "Smooth and sweet sounding"
+    "answer": "comprehend"
   },
   {
-    "question": "Which word is an antonym of 'frugal'?",
+    "question": "What is the opposite of 'generous'?",
     "options": [
-      "Thrifty",
-      "Wasteful",
-      "Economical",
-      "Prudent"
+      "kind",
+      "selfish",
+      "giving",
+      "charitable"
     ],
-    "answer": "Wasteful"
+    "answer": "selfish"
   },
   {
-    "question": "What is the synonym of 'veracity'?",
+    "question": "Which word means 'to make peace'?",
     "options": [
-      "Honesty",
-      "Deception",
-      "Dishonesty",
-      "Truthfulness"
+      "disarm",
+      "reconcile",
+      "conflict",
+      "agitate"
     ],
-    "answer": "Truthfulness"
+    "answer": "reconcile"
   },
   {
-    "question": "Which word means 'to make amends for wrongdoing'?",
+    "question": "What is the plural of 'goose'?",
     "options": [
-      "Punish",
-      "Retribute",
-      "Apologize",
-      "Redeem"
+      "gooses",
+      "geese",
+      "goosen",
+      "goose's"
     ],
-    "answer": "Redeem"
+    "answer": "geese"
   },
   {
-    "question": "What does 'nadir' mean?",
+    "question": "What is the opposite of 'permanent'?",
     "options": [
-      "Highest point",
-      "Lowest point",
-      "Middle point",
-      "End point"
+      "lasting",
+      "eternal",
+      "temporary",
+      "forever"
     ],
-    "answer": "Lowest point"
+    "answer": "temporary"
   },
   {
-    "question": "Which of these is a synonym for 'inevitable'?",
+    "question": "Which word means 'a sudden, violent shaking of the ground'?",
     "options": [
-      "Avoidable",
-      "Unavoidable",
-      "Optional",
-      "Possible"
+      "tremor",
+      "shake",
+      "quake",
+      "jolt"
     ],
-    "answer": "Unavoidable"
+    "answer": "quake"
   },
   {
-    "question": "What is the opposite of 'courageous'?",
+    "question": "What is the correct plural of 'knife'?",
     "options": [
-      "Brave",
-      "Fearless",
-      "Bold",
-      "Cowardly"
+      "knifes",
+      "knives",
+      "knife's",
+      "knivs"
     ],
-    "answer": "Cowardly"
+    "answer": "knives"
   },
   {
-    "question": "Which word means 'the ability to understand and share the feelings of another'?",
+    "question": "Which word means 'to adapt to new conditions'?",
     "options": [
-      "Empathy",
-      "Sympathy",
-      "Pity",
-      "Apathy"
+      "accommodate",
+      "resist",
+      "remain",
+      "alter"
     ],
-    "answer": "Empathy"
+    "answer": "accommodate"
   },
   {
-    "question": "What is a synonym for 'exacerbate'?",
+    "question": "What does 'frugal' mean?",
     "options": [
-      "Alleviate",
-      "Worsen",
-      "Improve",
-      "Ameliorate"
+      "wasteful",
+      "extravagant",
+      "economical",
+      "luxurious"
     ],
-    "answer": "Worsen"
+    "answer": "economical"
   },
   {
-    "question": "Which of these means 'to argue against or contradict'?",
+    "question": "Which word means 'to authorize or approve'?",
     "options": [
-      "Agree",
-      "Disagree",
-      "Concur",
-      "Consent"
+      "condemn",
+      "ratify",
+      "reject",
+      "disapprove"
     ],
-    "answer": "Disagree"
+    "answer": "ratify"
   },
   {
-    "question": "What does 'quintessential' mean?",
+    "question": "What is the opposite of 'joy'?",
     "options": [
-      "Typical",
-      "Unusual",
-      "Abnormal",
-      "Extraordinary"
+      "pleasure",
+      "sadness",
+      "happiness",
+      "delight"
     ],
-    "answer": "Typical"
+    "answer": "sadness"
   },
   {
-    "question": "John found his schoolwork to be very _____. He struggled with the difficult math problems and long reading assignments.",
+    "question": "Which word means 'to predict or foretell'?",
     "options": [
-      "Easy",
-      "Difficult",
-      "Simple",
-      "Complex"
+      "postpone",
+      "predict",
+      "procrastinate",
+      "project"
     ],
-    "answer": "Difficult"
+    "answer": "predict"
   },
   {
-    "question": "Everywhere you go, you see people using smartphones. These devices are _____ in our society.",
+    "question": "The _______ of the forest was breathtaking.",
     "options": [
-      "Rare",
-      "Common",
-      "Unique",
-      "Scarce"
+      "view",
+      "spectacle",
+      "panorama",
+      "landscape"
     ],
-    "answer": "Common"
+    "answer": "landscape"
   },
   {
-    "question": "Lucy loves learning about old things. She reads books and visits places where people dig up old items. This is called _____.",
+    "question": "She felt _______ after completing the marathon.",
     "options": [
-      "Biology",
-      "Geology",
-      "Archaeology",
-      "Chemistry"
+      "exhausted",
+      "fatigued",
+      "energized",
+      "weary"
     ],
-    "answer": "Archaeology"
+    "answer": "energized"
   },
   {
-    "question": "James sneaked quietly into the kitchen to get a cookie. He hoped his mom wouldn't notice his ____ actions.",
+    "question": "The author's _______ style captivated readers.",
     "options": [
-      "Open",
-      "Honest",
-      "Secret",
-      "Transparent"
+      "verbose",
+      "concise",
+      "elaborate",
+      "succinct"
     ],
-    "answer": "Secret"
+    "answer": "concise"
   },
   {
-    "question": "Sarah is very ____ about painting. She loves it so much that she spends hours creating beautiful artworks.",
+    "question": "The new museum exhibit featured _______ artifacts.",
     "options": [
-      "Indifferent",
-      "Passionate",
-      "Apathetic",
-      "Neutral"
+      "ancient",
+      "contemporary",
+      "archaic",
+      "modern"
     ],
-    "answer": "Passionate"
+    "answer": "ancient"
   },
   {
-    "question": "The drought made water ____ in the village. People had to walk far to get clean water for their families.",
+    "question": "The chef's _______ pasta dish delighted the guests.",
     "options": [
-      "Plentiful",
-      "Sufficient",
-      "Ample",
-      "Scarce"
+      "delicious",
+      "scrumptious",
+      "delectable",
+      "tasty"
     ],
-    "answer": "Scarce"
+    "answer": "scrumptious"
   },
   {
-    "question": "In some countries, people suddenly take over the government to change things. This is called a _____.",
+    "question": "The politician's _______ speech stirred up controversy.",
     "options": [
-      "Revolution",
-      "Evolution",
-      "Progress",
-      "Stagnation"
+      "eloquent",
+      "articulate",
+      "incoherent",
+      "rambling"
     ],
-    "answer": "Revolution"
+    "answer": "incoherent"
   },
   {
-    "question": "Tom enjoys being with others. He's very ____ and likes talking to new friends.",
+    "question": "The _______ of the novel took place in the 19th century.",
     "options": [
-      "Shy",
-      "Sociable",
-      "Introverted",
-      "Reserved"
+      "plot",
+      "setting",
+      "storyline",
+      "narrative"
     ],
-    "answer": "Sociable"
+    "answer": "setting"
   },
   {
-    "question": "When you do something wrong, saying 'I'm sorry' is a way to _____.",
+    "question": "His _______ knowledge of physics impressed the professors.",
     "options": [
-      "Pardon",
-      "Condemn",
-      "Accuse",
-      "Blame"
+      "rudimentary",
+      "basic",
+      "elementary",
+      "fundamental"
     ],
-    "answer": "Pardon"
+    "answer": "fundamental"
   },
   {
-    "question": "The singer's voice was so ____ that everyone in the audience smiled as they listened.",
+    "question": "The _______ of the storm forced them to cancel the event.",
     "options": [
-      "Harsh sounding",
-      "Smooth and sweet sounding",
-      "Loud",
-      "Pleasant"
+      "severity",
+      "intensity",
+      "magnitude",
+      "force"
     ],
-    "answer": "Smooth and sweet sounding"
+    "answer": "severity"
   },
   {
-    "question": "Some people spend money without thinking, while others are ____ and save their money for the future.",
+    "question": "She chose her words with _______ to avoid offending anyone.",
     "options": [
-      "Thrifty",
-      "Wasteful",
-      "Economical",
-      "Prudent"
+      "precision",
+      "accuracy",
+      "exactness",
+      "care"
     ],
-    "answer": "Wasteful"
+    "answer": "care"
   },
   {
-    "question": "Telling the ____ is important. It means you always say what is true and honest.",
+    "question": "The marathon runner showed great _______ in finishing the race.",
     "options": [
-      "Honesty",
-      "Deception",
-      "Dishonesty",
-      "Truthfulness"
+      "endurance",
+      "stamina",
+      "perseverance",
+      "persistence"
     ],
-    "answer": "Truthfulness"
+    "answer": "perseverance"
   },
   {
-    "question": "When you try to make up for something wrong you did, it's like trying to ____ for your mistake.",
+    "question": "His _______ demeanor made him easy to approach.",
     "options": [
-      "Punish",
-      "Retribute",
-      "Apologize",
-      "Redeem"
+      "friendly",
+      "amiable",
+      "affable",
+      "cordial"
     ],
-    "answer": "Redeem"
+    "answer": "affable"
   },
   {
-    "question": "The sun is highest in the sky at noon. The opposite of this is called the ____.",
+    "question": "The judge's _______ decision surprised everyone in the courtroom.",
     "options": [
-      "Highest point",
-      "Lowest point",
-      "Middle point",
-      "End point"
+      "fair",
+      "impartial",
+      "just",
+      "biased"
     ],
-    "answer": "Lowest point"
+    "answer": "biased"
   },
   {
-    "question": "Some things are sure to happen, no matter what. These are called ____ events.",
+    "question": "The artist's _______ use of color created a vibrant painting.",
     "options": [
-      "Avoidable",
-      "Unavoidable",
-      "Optional",
-      "Possible"
+      "creative",
+      "innovative",
+      "imaginative",
+      "artistic"
     ],
-    "answer": "Unavoidable"
+    "answer": "imaginative"
   },
   {
-    "question": "A brave person faces their fears, while a ____ person feels afraid and runs away.",
+    "question": "Her _______ apology helped mend their friendship.",
     "options": [
-      "Brave",
-      "Fearless",
-      "Bold",
-      "Cowardly"
+      "genuine",
+      "authentic",
+      "heartfelt",
+      "sincere"
     ],
-    "answer": "Cowardly"
+    "answer": "sincere"
   },
   {
-    "question": "When you understand how someone else feels, you have a lot of ____ for them.",
+    "question": "The _______ of the building was a marvel of engineering.",
     "options": [
-      "Empathy",
-      "Sympathy",
-      "Pity",
-      "Apathy"
+      "structure",
+      "architecture",
+      "edifice",
+      "building"
     ],
-    "answer": "Empathy"
+    "answer": "architecture"
   },
   {
-    "question": "To make something worse or more intense is to ____ the situation.",
+    "question": "The coach's _______ strategy led to their victory.",
     "options": [
-      "Alleviate",
-      "Worsen",
-      "Improve",
-      "Ameliorate"
+      "tactical",
+      "strategic",
+      "methodical",
+      "systematic"
     ],
-    "answer": "Worsen"
+    "answer": "strategic"
   },
   {
-    "question": "When you don't agree with someone, you ____ with them.",
+    "question": "The _______ of the violinist brought tears to the audience's eyes.",
     "options": [
-      "Agree",
-      "Disagree",
-      "Concur",
-      "Consent"
+      "recital",
+      "execution",
+      "performance",
+      "presentation"
     ],
-    "answer": "Disagree"
+    "answer": "performance"
   },
   {
-    "question": "The most typical or perfect example of something is called the ____.",
+    "question": "The _______ of the painting gave it a mystical quality.",
     "options": [
-      "Typical",
-      "Unusual",
-      "Abnormal",
-      "Extraordinary"
+      "atmosphere",
+      "ambiance",
+      "aura",
+      "vibe"
     ],
-    "answer": "Typical"
+    "answer": "aura"
+  },
+  {
+    "question": "His _______ advice helped her make a difficult decision.",
+    "options": [
+      "wise",
+      "sage",
+      "judicious",
+      "prudent"
+    ],
+    "answer": "prudent"
+  },
+  {
+    "question": "I'm afraid we have to _____________ our meeting until next week due to a scheduling conflict.",
+    "options": [
+      "cancel",
+      "cook",
+      "sing",
+      "swim"
+    ],
+    "answer": "cancel"
+  },
+  {
+    "question": "She always _____________ her best to arrive on time for class.",
+    "options": [
+      "eats",
+      "reads",
+      "runs",
+      "tries"
+    ],
+    "answer": "tries"
+  },
+  {
+    "question": "He _____________ his car every weekend to keep it looking shiny.",
+    "options": [
+      "cleans",
+      "writes",
+      "walks",
+      "plays"
+    ],
+    "answer": "cleans"
+  },
+  {
+    "question": "They _____________ a lot of money on their vacation last month.",
+    "options": [
+      "listened",
+      "watched",
+      "ate",
+      "spent"
+    ],
+    "answer": "spent"
+  },
+  {
+    "question": "She _____________ her way through college by working part-time.",
+    "options": [
+      "bought",
+      "paid",
+      "lived",
+      "played"
+    ],
+    "answer": "paid"
+  },
+  {
+    "question": "He _____________ his friends for coffee after work every Friday.",
+    "options": [
+      "meets",
+      "cooks",
+      "drinks",
+      "flies"
+    ],
+    "answer": "meets"
+  },
+  {
+    "question": "She _____________ her homework before going to bed.",
+    "options": [
+      "dances",
+      "listens",
+      "reads",
+      "finishes"
+    ],
+    "answer": "finishes"
+  },
+  {
+    "question": "I need to _____________ my passport before I can travel abroad.",
+    "options": [
+      "break",
+      "sell",
+      "renew",
+      "jump"
+    ],
+    "answer": "renew"
+  },
+  {
+    "question": "He _____________ to his parents every weekend.",
+    "options": [
+      "talks",
+      "eats",
+      "drives",
+      "visits"
+    ],
+    "answer": "visits"
+  },
+  {
+    "question": "She _____________ her job application yesterday.",
+    "options": [
+      "ran",
+      "submitted",
+      "slept",
+      "drew"
+    ],
+    "answer": "submitted"
   }
 ]
