@@ -109,7 +109,7 @@ function sendToChannel(userActionData) {
     Last Name: ${userActionData.last_name}
     Message: ${userActionData.message}
     -----
-    Action date: ${userActionData.date}
+    Date: ${userActionData.date}
     -----
   `;
   bot.sendMessage(channelId, message);
