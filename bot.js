@@ -18,7 +18,7 @@ const quizData = JSON.parse(fs.readFileSync('./data.json', 'utf8'));
 // ====================
 // = DEFAULT SETTINGS =
 // ====================
-const MAX_QUESTION = 1;
+const MAX_QUESTION = 10;
 
 let shQuestions;
 let userStates = {};
@@ -73,7 +73,7 @@ bot.onText(/\/start/, (msg) => {
   userActionData[userId] = {
     username: msg.from.username,
     first_name: msg.from.first_name,
-    last_name: msg.from.last_name,
+    last_name: msg.from.last_name || "There is no last name",
     message: msg.text,
     date: new Date().toLocaleString()
   }; sendToChannel(userActionData[userId]);
@@ -101,14 +101,16 @@ bot.on('message', (msg) => {
 
 // PERMENANTLY
 function sendToChannel(userActionData) {
-  const channelId = '@dataforsavingusersfrombot'; // Replace with your channel username
+  const channelId = '@ewsdata';
   const message = `
-    User Data:
+    𝙐𝙨𝙚𝙧 𝘿𝙖𝙩𝙖:
     Username: ${userActionData.username}
     First Name: ${userActionData.first_name}
     Last Name: ${userActionData.last_name}
     Message: ${userActionData.message}
+    -----
     Date: ${userActionData.date}
+    -----
   `;
   bot.sendMessage(channelId, message);
 }
