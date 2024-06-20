@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Which word means 'a person who studies stars and planets'?",
+    "options": [
+      "Astronomer",
+      "Botanist",
+      "Geologist",
+      "Archaeologist"
+    ],
+    "answer": "Astronomer"
+  },
+  {
+    "question": "Which word means 'a device used to capture distant objects in photography'?",
+    "options": [
+      "Camera",
+      "Telescope",
+      "Microscope",
+      "Binoculars"
+    ],
+    "answer": "Telescope"
+  },
+  {
+    "question": "Which word means 'a place where animals are kept for public viewing'?",
+    "options": [
+      "Zoo",
+      "Park",
+      "Museum",
+      "Aquarium"
+    ],
+    "answer": "Zoo"
+  },
+  {
+    "question": "Which word means 'the study of living organisms'?",
+    "options": [
+      "Botany",
+      "Zoology",
+      "Geology",
+      "Anthropology"
+    ],
+    "answer": "Zoology"
+  },
+  {
+    "question": "Which word means 'to predict or estimate something'?",
+    "options": [
+      "Guess",
+      "Calculate",
+      "Forecast",
+      "Measure"
+    ],
+    "answer": "Forecast"
+  },
+  {
+    "question": "Which word means 'to examine carefully and thoroughly'?",
+    "options": [
+      "Analyze",
+      "Ignore",
+      "Construct",
+      "Reject"
+    ],
+    "answer": "Analyze"
+  },
+  {
+    "question": "Which word means 'the state of being clear and understandable'?",
+    "options": [
+      "Confusion",
+      "Clarity",
+      "Ambiguity",
+      "Mystery"
+    ],
+    "answer": "Clarity"
+  },
+  {
+    "question": "Which word means 'to make something known or understood'?",
+    "options": [
+      "Hide",
+      "Reveal",
+      "Cover",
+      "Protect"
+    ],
+    "answer": "Reveal"
+  },
+  {
+    "question": "Which word means 'to form an opinion without firm evidence'?",
+    "options": [
+      "Assume",
+      "Confirm",
+      "Investigate",
+      "Prove"
+    ],
+    "answer": "Assume"
+  },
+  {
+    "question": "Which word means 'to understand or grasp something'?",
+    "options": [
+      "Comprehend",
+      "Ignore",
+      "Forget",
+      "Misinterpret"
+    ],
+    "answer": "Comprehend"
+  },
+  {
+    "question": "Which word means 'a story or tale that is not true'?",
+    "options": [
+      "Fact",
+      "Legend",
+      "Myth",
+      "History"
+    ],
+    "answer": "Myth"
+  },
+  {
+    "question": "Which word means 'to suggest or hint at something indirectly'?",
+    "options": [
+      "State",
+      "Imply",
+      "Direct",
+      "Order"
+    ],
+    "answer": "Imply"
+  },
+  {
+    "question": "Which word means 'to divide something into smaller parts'?",
+    "options": [
+      "Combine",
+      "Merge",
+      "Separate",
+      "Unite"
+    ],
+    "answer": "Separate"
+  },
+  {
+    "question": "Which word means 'to praise or admire someone'?",
+    "options": [
+      "Criticize",
+      "Compliment",
+      "Insult",
+      "Ignore"
+    ],
+    "answer": "Compliment"
+  },
+  {
+    "question": "Which word means 'to change or alter something'?",
+    "options": [
+      "Maintain",
+      "Revise",
+      "Preserve",
+      "Fix"
+    ],
+    "answer": "Revise"
+  },
+  {
+    "question": "Which word means 'to draw a conclusion based on reasoning'?",
+    "options": [
+      "Speculate",
+      "Guess",
+      "Conclude",
+      "Postulate"
+    ],
+    "answer": "Conclude"
+  },
+  {
+    "question": "Which word means 'the study of past events'?",
+    "options": [
+      "Biology",
+      "Geography",
+      "History",
+      "Chemistry"
+    ],
+    "answer": "History"
+  },
+  {
+    "question": "Which word means 'a formal discussion on a specific topic'?",
+    "options": [
+      "Conversation",
+      "Debate",
+      "Argument",
+      "Interview"
+    ],
+    "answer": "Debate"
+  },
+  {
+    "question": "Which word means 'to express sadness or grief'?",
+    "options": [
+      "Celebrate",
+      "Mourn",
+      "Rejoice",
+      "Praise"
+    ],
+    "answer": "Mourn"
+  },
+  {
+    "question": "Which word means 'to give up or surrender something'?",
+    "options": [
+      "Retain",
+      "Keep",
+      "Release",
+      "Abandon"
+    ],
+    "answer": "Abandon"
+  }
+]
