@@ -18,7 +18,7 @@ const quizData = JSON.parse(fs.readFileSync('./data.json', 'utf8'));
 // ====================
 // = DEFAULT SETTINGS =
 // ====================
-const MAX_QUESTION = 5;
+const MAX_QUESTION = 1;
 
 let shQuestions;
 let userStates = {};
