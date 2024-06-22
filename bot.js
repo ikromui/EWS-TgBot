@@ -54,27 +54,6 @@ function shuffle(array) {
 
 
 // ==================
-// ==== BUTTON ======
-// ==================
-function sendMessage(chatId) {
-  const chatId = chatId
-
-  bot.sendMessage(chatId, "Press the button below to start.", {
-    reply_markup: {
-      inline_keyboard: [
-        [{
-          text: 'Start Quiz',
-        }]
-      ],
-      resize_keyboard: true,
-    }
-  });
-}
-
-
-
-
-// ==================
 // === START BOT ====
 // ==================
 bot.onText(/\/start/, (msg) => {
@@ -82,9 +61,16 @@ bot.onText(/\/start/, (msg) => {
   const userId = msg.from.id;
 
   userStates[chatId] = { currentQuestion: 0, score: 0 };
-  sendMessage(chatId)
-
-
+  bot.sendMessage(chatId, "Press the button below to start.", {
+    reply_markup: {
+      keyboard: [
+        [{
+          text: 'Start Quiz',
+        }]
+      ],
+      resize_keyboard: true
+    }
+  });
 
   // PERMENANTLY
   userActionData[userId] = {
@@ -95,6 +81,11 @@ bot.onText(/\/start/, (msg) => {
     date: new Date().toLocaleString()
   }; sendToChannel(userActionData[userId]);
 });
+
+
+
+
+
 
 bot.on('message', (msg) => {
   const chatId = msg.chat.id;
@@ -191,7 +182,7 @@ bot.on('poll_answer', (pollAnswer) => {
   }
 
   userState.currentQuestion++;
-  setTimeout(() => sendQuestion(chatId), 500);
+  setTimeout(() => sendQuestion(chatId), 800);
 });
 bot.on('polling_error', (error) => {
   console.error("Polling error:", error);
