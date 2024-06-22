@@ -16,7 +16,7 @@ function keepServerAwake() {
   }, 300000);
 }
 
-keepServerAwake()
+keepServerAwake();
 
 // ==================
 // = CODE SETTINGS ==
@@ -57,10 +57,14 @@ function shuffle(array) {
 // ==== BUTTON ======
 // ==================
 function sendMessage(chatId) {
+  const chatId = chatId
+
   bot.sendMessage(chatId, "Press the button below to start.", {
     reply_markup: {
-      keyboard: [
-        [{ text: 'Start Quiz' }]
+      inline_keyboard: [
+        [{
+          text: 'Start Quiz',
+        }]
       ],
       resize_keyboard: true,
     }
@@ -154,7 +158,7 @@ function sendQuestion(chatId) {
       });
   } else {
     const imagePath = "";
-    const endMsg = `You found:  ${userState.score}/${shQuestions.length}. Do you want to /start again?`;
+    const endMsg = `YOU FOUND:  ${userState.score}/${shQuestions.length}. Do you want to /start again?`;
 
     if (fs.existsSync(imagePath)) {
       bot.sendPhoto(chatId, imagePath,
@@ -166,10 +170,6 @@ function sendQuestion(chatId) {
     }
   }
 }
-
-
-
-
 
 
 // ====================================
@@ -193,13 +193,10 @@ bot.on('poll_answer', (pollAnswer) => {
   userState.currentQuestion++;
   setTimeout(() => sendQuestion(chatId), 500);
 });
-
-
-
-
-
-
 bot.on('polling_error', (error) => {
   console.error("Polling error:", error);
 });
+
+
+
 console.log('Bot started...');

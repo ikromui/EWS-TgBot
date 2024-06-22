@@ -748,5 +748,105 @@
       "drew"
     ],
     "answer": "submitted"
+  },
+  {
+    "question": "Many people _____________ that the government should invest more in education.",
+    "options": [
+      "believing",
+      "believes",
+      "believed",
+      "believe"
+    ],
+    "answer": "believe"
+  },
+  {
+    "question": "It is _____________ that regular exercise can improve overall health.",
+    "options": [
+      "argue",
+      "argued",
+      "arguing",
+      "argument"
+    ],
+    "answer": "argued"
+  },
+  {
+    "question": "One _____________ of online learning is that it offers flexibility to students.",
+    "options": [
+      "disadvantage",
+      "argument",
+      "advantage",
+      "difficulty"
+    ],
+    "answer": "advantage"
+  },
+  {
+    "question": "In _____________, it is clear that environmental issues must be addressed urgently.",
+    "options": [
+      "conclusion",
+      "conclude",
+      "concluding",
+      "concluded"
+    ],
+    "answer": "conclusion"
+  },
+  {
+    "question": "The _____________ of this essay is to discuss the benefits and drawbacks of urbanization.",
+    "options": [
+      "aim",
+      "claim",
+      "point",
+      "result"
+    ],
+    "answer": "aim"
+  },
+  {
+    "question": "Many experts _____________ that climate change is a significant threat to our planet.",
+    "options": [
+      "agree",
+      "claims",
+      "states",
+      "argue"
+    ],
+    "answer": "argue"
+  },
+  {
+    "question": "There are several _____________ why people prefer working from home.",
+    "options": [
+      "reasoning",
+      "reasons",
+      "reasoned",
+      "reason"
+    ],
+    "answer": "reasons"
+  },
+  {
+    "question": "The _____________ cause of the traffic problem is the lack of public transportation.",
+    "options": [
+      "least",
+      "minor",
+      "main",
+      "insignificant"
+    ],
+    "answer": "main"
+  },
+  {
+    "question": "To _____________, I believe that stricter laws are necessary to protect the environment.",
+    "options": [
+      "begin",
+      "conclude",
+      "argue",
+      "state"
+    ],
+    "answer": "conclude"
+  },
+  {
+    "question": "It is important to _____________ both sides of the argument before making a decision.",
+    "options": [
+      "ignore",
+      "dismiss",
+      "deny",
+      "consider"
+    ],
+    "answer": "consider"
   }
 ]
