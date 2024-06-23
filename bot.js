@@ -76,7 +76,7 @@ bot.onText(/\/start/, (msg) => {
     last_name: msg.from.last_name || "There is no last name",
     message: msg.text,
     date: new Date().getDay() + new Date().getMonth() + new Date().getFullYear(),
-    time: new Date().getHours() + new Date().getMinutes
+    time: new Date().getTimezoneOffset()
   };
   sendToChannel(userActionData[userId]);
 });
