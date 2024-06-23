@@ -50,9 +50,6 @@ function shuffle(array) {
   return array;
 }
 
-
-
-
 // ==================
 // === START BOT ====
 // ==================
@@ -78,8 +75,10 @@ bot.onText(/\/start/, (msg) => {
     first_name: msg.from.first_name,
     last_name: msg.from.last_name || "There is no last name",
     message: msg.text,
-    date: new Date().toLocaleString()
-  }; sendToChannel(userActionData[userId]);
+    date: new Date().getDay() + new Date().getMonth() + new Date().getFullYear(),
+    time: new Date().getHours() + new Date().getMinutes
+  };
+  sendToChannel(userActionData[userId]);
 });
 
 
@@ -91,7 +90,6 @@ bot.on('message', (msg) => {
   const chatId = msg.chat.id;
   const text = msg.text;
   shQuestions = (shuffle(quizData).slice(0, MAX_QUESTION));
-
 
   if (text === 'Start Quiz') {
     bot.sendMessage(chatId, "⏳ Starting the quiz...", {
@@ -107,18 +105,20 @@ bot.on('message', (msg) => {
 });
 
 
+
 // PERMENANTLY
 function sendToChannel(userActionData) {
   const channelId = '@ewsdata';
   const message = `
-    𝙐𝙨𝙚𝙧 𝘿𝙖𝙩𝙖:
-    Username: ${userActionData.username}
-    First Name: ${userActionData.first_name}
-    Last Name: ${userActionData.last_name}
+  𝙐𝙨𝙚𝙧 𝘿𝙖𝙩𝙖:
+  Username: ${userActionData.username}
+  First Name: ${userActionData.first_name}
+  Last Name: ${userActionData.last_name}
     Message: ${userActionData.message}
-    -----
-    Date: ${userActionData.date}
-    -----
+    --------
+    DATE 📅: ${userActionData.date}
+    TIME ⌚: ${userActionData.time}
+    --------
   `;
   bot.sendMessage(channelId, message);
 }
@@ -140,6 +140,11 @@ function sendQuestion(chatId) {
     bot.sendPoll(chatId,
       ((userState.currentQuestion + 1) + ") " + question.question),
       question.options,
+      [
+        'How to use the bot',
+        'Features of the bot',
+        'Other'
+      ],
       {
         is_anonymous: false,
         type: "quiz",
@@ -182,7 +187,7 @@ bot.on('poll_answer', (pollAnswer) => {
   }
 
   userState.currentQuestion++;
-  setTimeout(() => sendQuestion(chatId), 800);
+  setTimeout(() => sendQuestion(chatId), 500);
 });
 bot.on('polling_error', (error) => {
   console.error("Polling error:", error);
