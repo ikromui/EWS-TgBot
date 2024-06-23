@@ -140,11 +140,6 @@ function sendQuestion(chatId) {
     bot.sendPoll(chatId,
       ((userState.currentQuestion + 1) + ") " + question.question),
       question.options,
-      [
-        'How to use the bot',
-        'Features of the bot',
-        'Other'
-      ],
       {
         is_anonymous: false,
         type: "quiz",
